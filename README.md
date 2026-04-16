@@ -7,6 +7,7 @@ Bu depo (repository), SwiftUI öğrenirken izlediğim Paul Hudson kanalından el
 ### 01-İçerdiği Projeler
 - [x] **WeSplit** 
 - [x] **GuessTheFlag** 
+- [x] **BetterRest** 
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
