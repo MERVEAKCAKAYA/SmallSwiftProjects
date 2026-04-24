@@ -11,6 +11,7 @@ Bu depo (repository), SwiftUI öğrenirken izlediğim Paul Hudson kanalından el
 - [x] **WordScramble** Uygulama başlarken, önceden yüklenmiş olan kelimeleri barındıran txt dosyasından rastgele bir kelime seçilir ve ekranda belirir. Kullanıcı bu kelimeyi görür ve bu kelimenin harflerini barındıran mantıklı başka kelimeler üretir. Uygulama sözlükte olmayan bir kelime yazıldığında ya da ekrandaki kelimenin harflerini içermeyen bir kelime yazıldığında uyarı verir.
 - [x] **Animations** Bu projede SwiftUI'da animasyonlar için kullanılan araçlar anlatıldı.
 - [x] **iExpense** Kişisel ve İş harcamalarının kaydını tutan bir uygulama geliştirildi. İçerisinde UserDefaults, Codable, Identifiable teknolojileri kullanıldı.
+- [x] **Moonshot** Bu projede, NASA'nın Apollo görevlerini ve astronotlarını listeleyen bir uygulamadır. Apollo görevlerini grid yapısında listeler. NavigationLink yapısı sayesinde detay sayfalara da gidilebilmektedir.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
