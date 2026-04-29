@@ -8,8 +8,13 @@
 import SwiftUI
 
 struct ContentView: View {
+    //astronauts.json dosyasındaki verileri dictionary'e alır.
     let astronauts : [String : Astronaut] = Bundle.main.decode("astronauts.json")
+    
+    //missions.json dosyasındaki verileri Mission structından oluşmuş arraya doldurur.
     let missions : [Mission] = Bundle.main.decode("missions.json")
+    
+    //ekrana kolon ekler. ne kadar sığabiliyorsa. min genişlik verir.
     let columns = [
         GridItem(.adaptive(minimum: 150))
     ]

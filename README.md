@@ -12,6 +12,8 @@ Bu depo (repository), SwiftUI öğrenirken izlediğim Paul Hudson kanalından el
 - [x] **Animations** Bu projede SwiftUI'da animasyonlar için kullanılan araçlar anlatıldı.
 - [x] **iExpense** Kişisel ve İş harcamalarının kaydını tutan bir uygulama geliştirildi. İçerisinde UserDefaults, Codable, Identifiable teknolojileri kullanıldı.
 - [x] **Moonshot** Bu projede, NASA'nın Apollo görevlerini ve astronotlarını listeleyen bir uygulamadır. Apollo görevlerini grid yapısında listeler. NavigationLink yapısı sayesinde detay sayfalara da gidilebilmektedir.
+- [x] **Navigation** Bu projede SwiftUI'da aktif olarak kullanılan navigationLink, navigationDestination,
+navigationPath konularını içeren bir ornek yapıldı.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
