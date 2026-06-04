@@ -17,6 +17,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **CupcakeCorner** Bu projede gerçek zamanlı form validation, codable + @observable entegrasyonu, asyncImage entegrasyonu, modern networking(URLSession, async-await) teknolojileri kullanılarak sipariş oluşturma uygulaması yapılmıştır.
 - [x] **BookwormApp** Bu proje SwiftData kullanılarak geliştirilmiş basit bir kitap takip uygulamasıdır. Kullanıcılar okudukları kitapları ekleyebilir, kitaplara puan verebilir, yorum yazabilir, kitap detaylarını görüntüleyebilir ve kayıtları silebilir.
 - [x] **GoPage** Bu proje path kavramını daha iyi anlamak ve anlatmak için geliştirilmiştir. İçerisinde navigationDestination, navigationLink, Route, path kavramları yer almaktadır.
+- [x] **FilteringQueryExample** Bu projede kullanıcıdan alınan değer ile değişebilen Query property wrapper üzerine küçük bir örnek yapılmıştır.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2

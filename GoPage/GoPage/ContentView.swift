@@ -11,7 +11,9 @@ import SwiftData
 struct ContentView: View {
     
     @Environment(\.modelContext) var modelContext
-    @Query(sort: \User.name) var users : [User]
+    @Query(filter: #Predicate<User>{user in
+        user.name == "Merve"
+    }, sort: \User.name) var users : [User]
     //navigation destination içerisinde birden fazla ekran olduğu için path'İ Route cinsinden tanımladım.
     @State private var path = [Route]()
     enum Route: Hashable {
@@ -40,6 +42,7 @@ struct ContentView: View {
                     let user = User(name: "", city: "", joinDate:.now)
                     modelContext.insert(user)
                     path = [Route.UserEdit(user)]
+                
                 }
             }
         }
