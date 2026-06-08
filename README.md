@@ -18,6 +18,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **BookwormApp** Bu proje SwiftData kullanılarak geliştirilmiş basit bir kitap takip uygulamasıdır. Kullanıcılar okudukları kitapları ekleyebilir, kitaplara puan verebilir, yorum yazabilir, kitap detaylarını görüntüleyebilir ve kayıtları silebilir.
 - [x] **GoPage** Bu proje path kavramını daha iyi anlamak ve anlatmak için geliştirilmiştir. İçerisinde navigationDestination, navigationLink, Route, path kavramları yer almaktadır.
 - [x] **FilteringQueryExample** Bu projede kullanıcıdan alınan değer ile değişebilen Query property wrapper üzerine küçük bir örnek yapılmıştır.
+- [x] **Instafilter** Bu projede CoreImage, PhotosUI ve StoreKit kütühaneleri kullanılarak kullanıcıdan cihaz içerisinden bir resim seçtirilir ardından sectiği resme bir filtre seçmesi istenir. Seçilen filtrenin yoğunluğunu da yine kullanıcı Slider kullanarak değiştirebilir.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
