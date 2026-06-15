@@ -19,6 +19,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **GoPage** Bu proje path kavramını daha iyi anlamak ve anlatmak için geliştirilmiştir. İçerisinde navigationDestination, navigationLink, Route, path kavramları yer almaktadır.
 - [x] **FilteringQueryExample** Bu projede kullanıcıdan alınan değer ile değişebilen Query property wrapper üzerine küçük bir örnek yapılmıştır.
 - [x] **Instafilter** Bu projede CoreImage, PhotosUI ve StoreKit kütühaneleri kullanılarak kullanıcıdan cihaz içerisinden bir resim seçtirilir ardından sectiği resme bir filtre seçmesi istenir. Seçilen filtrenin yoğunluğunu da yine kullanıcı Slider kullanarak değiştirebilir.
+- [x] **BucketList** Bu projede MapKit kullanılarak haritadan beğenilen yerler işaretleniyor, ardından işaretlenen yer için bir edit sayfası açılıyor. Bu sayfada ilgili yer ile ilgili wikipedia'dan çekilen yazılar sıralanır.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
