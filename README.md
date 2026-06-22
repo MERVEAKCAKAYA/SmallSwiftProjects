@@ -20,6 +20,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **FilteringQueryExample** Bu projede kullanıcıdan alınan değer ile değişebilen Query property wrapper üzerine küçük bir örnek yapılmıştır.
 - [x] **Instafilter** Bu projede CoreImage, PhotosUI ve StoreKit kütühaneleri kullanılarak kullanıcıdan cihaz içerisinden bir resim seçtirilir ardından sectiği resme bir filtre seçmesi istenir. Seçilen filtrenin yoğunluğunu da yine kullanıcı Slider kullanarak değiştirebilir.
 - [x] **BucketList** Bu projede MapKit kullanılarak haritadan beğenilen yerler işaretleniyor, ardından işaretlenen yer için bir edit sayfası açılıyor. Bu sayfada ilgili yer ile ilgili wikipedia'dan çekilen yazılar sıralanır.
+- [x] **HotProspects** Bu projede QR Code Scanner projesi Package Dependency olarak eklenmiştir. Uygulamada UserNotification, ContextMenu, TabView gibi teknolojiler kullanılmıştır.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
