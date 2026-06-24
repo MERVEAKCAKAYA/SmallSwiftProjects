@@ -21,6 +21,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **Instafilter** Bu projede CoreImage, PhotosUI ve StoreKit kütühaneleri kullanılarak kullanıcıdan cihaz içerisinden bir resim seçtirilir ardından sectiği resme bir filtre seçmesi istenir. Seçilen filtrenin yoğunluğunu da yine kullanıcı Slider kullanarak değiştirebilir.
 - [x] **BucketList** Bu projede MapKit kullanılarak haritadan beğenilen yerler işaretleniyor, ardından işaretlenen yer için bir edit sayfası açılıyor. Bu sayfada ilgili yer ile ilgili wikipedia'dan çekilen yazılar sıralanır.
 - [x] **HotProspects** Bu projede QR Code Scanner projesi Package Dependency olarak eklenmiştir. Uygulamada UserNotification, ContextMenu, TabView gibi teknolojiler kullanılmıştır.
+- [x] **Flashzilla** Bu uygulama geliştirilirken Gesture (DragGesture, TapGesture, LongPressGesture, MagnificationGesture, RotationGesture), allowsHitTesting & contentShape, Timer, scenePhase, Accessibility(accessibilityDifferentiateWithoutColor, accessibilityReduceMotion (ve withOptionalAnimation yardımcı fonksiyonu)) konuları ele alınmıştır.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
