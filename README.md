@@ -22,6 +22,7 @@ navigationPath konularını içeren bir ornek yapıldı.
 - [x] **BucketList** Bu projede MapKit kullanılarak haritadan beğenilen yerler işaretleniyor, ardından işaretlenen yer için bir edit sayfası açılıyor. Bu sayfada ilgili yer ile ilgili wikipedia'dan çekilen yazılar sıralanır.
 - [x] **HotProspects** Bu projede QR Code Scanner projesi Package Dependency olarak eklenmiştir. Uygulamada UserNotification, ContextMenu, TabView gibi teknolojiler kullanılmıştır.
 - [x] **Flashzilla** Bu uygulama geliştirilirken Gesture (DragGesture, TapGesture, LongPressGesture, MagnificationGesture, RotationGesture), allowsHitTesting & contentShape, Timer, scenePhase, Accessibility(accessibilityDifferentiateWithoutColor, accessibilityReduceMotion (ve withOptionalAnimation yardımcı fonksiyonu)) konuları ele alınmıştır.
+- [x] **LayoutAndGeometry** Bu projede GeometryReader kullanımı ele alınmıştır. Ufak bir kart listesinin ekranda scroll ederken GeometryReader parametrelerinden yararlanılmıştır.
 
 ## 🛠 Kullanılan Teknolojiler & Araçlar
 - **Dil:** Swift 6.1.2
